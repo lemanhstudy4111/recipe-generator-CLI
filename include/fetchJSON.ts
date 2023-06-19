@@ -1,3 +1,4 @@
+//@author: Daniel Melanson
 import Bottleneck from "bottleneck";
 import fetch from "cross-fetch";
 import fs from "fs";

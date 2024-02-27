@@ -1,3 +1,4 @@
+//@author: Daniel Melanson
 import archiver from "archiver";
 import { createWriteStream, readFileSync, rmSync } from "fs";
 import { join } from "path";
